@@ -1,0 +1,27 @@
+{
+  "question": [
+    "What is the capital of France?",
+    "Which planet is known as the Red Planet?",
+    "Who wrote the play 'Romeo and Juliet'?",
+    "Which gas do plants use for photosynthesis?",
+    "What is the largest mammal?",
+    "What is the chemical symbol for gold?",
+    "Which scientist formulated the theory of relativity?",
+    "What is the national flower of Japan?",
+    "Which element has the chemical symbol 'H'?",
+    "Who painted the Mona Lisa?"
+  ],
+  "options": [
+    ["Paris", "London", "Berlin", "Madrid"],
+    ["Mars", "Jupiter", "Venus", "Mercury"],
+    ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+    ["Carbon dioxide", "Oxygen", "Hydrogen", "Nitrogen"],
+    ["Blue whale", "Elephant", "Giraffe", "Rhinoceros"],
+    ["Au", "Ag", "Cu", "Fe"],
+    ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    ["Cherry blossom", "Rose", "Tulip", "Lotus"],
+    ["Hydrogen", "Helium", "Oxygen", "Nitrogen"],
+    ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"]
+  ],
+  "answer": [1, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+}
